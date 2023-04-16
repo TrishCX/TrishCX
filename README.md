@@ -7,7 +7,6 @@ alt="HeaderGIF" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979
 <h1 align="center">Heyo 👋, I'm Ritesh</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trishcx&label=Profile%20views&color=0e75b6&style=flat" alt="trishcx" /> </p>
 
 - 🔭 I’m currently working on **Type-setup**
 
